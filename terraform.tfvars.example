@@ -1,0 +1,8 @@
+subscription_id = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+tenant_id       = "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
+client_id       = "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+client_secret   = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+region       = "eastus"
+pull_secret  = "pull-secret.json"
+cluster_name = "aro-demo"
