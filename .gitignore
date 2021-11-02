@@ -1,0 +1,21 @@
+#  Local .terraform directories
+**/.terraform/*
+
+
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# .tfvars files
+*.tfvars
+
+# Mac stuff
+.DS_Store
+
+# local
+makefile
+**/artifacts/*
+**/terraform.state.d/*
+*.log
